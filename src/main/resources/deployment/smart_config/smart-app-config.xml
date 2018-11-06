@@ -1,0 +1,8 @@
+<smartApplicationConfig>
+   <nodeType>smart</nodeType>
+   <nodeID>0000100038</nodeID>
+   <nodeAppName>slaver Server</nodeAppName>
+   <enableSSL>false</enableSSL>
+   <httpHostUrl>http://localhost:8080</httpHostUrl>
+   <httpsHostUrl>http://localhost:8080</httpsHostUrl>
+</smartApplicationConfig>
